@@ -7,8 +7,8 @@ Welcome to my React projects portfolio. This repository showcases a series of pr
 - [01vite-react](#01vite-react)
 - [02Counter](#02Counter)
 - [03tailwindprops](#03tailwindprops)
-- [04Bgchanger](#04Bgchanger)
-- [05Passwordgenerator](#05Passwordgenerator)
+- [04Bgchanger](#04bgchanger)
+- [05Passwordgenerator](#05passwordgenerator)
 
 ---
 
@@ -58,7 +58,7 @@ Welcome to my React projects portfolio. This repository showcases a series of pr
 
 ---
 
-### 04Bgchanger <a name="04Bgchanger"></a>
+### 04Bgchanger <a name="04bgchanger"></a>
 **Description:** A background color changer application that allows users to dynamically change the background color of the app. This project demonstrates advanced state management and user interaction handling.
 **Status:** Complete  
 **Latest Commit:** [View Commit](https://github.com/mgaditya-er/ChaiWithReact/commit/c98adfcdb71bb21a05706922a04876ed7dc12b91)  
@@ -69,7 +69,7 @@ Welcome to my React projects portfolio. This repository showcases a series of pr
 
 ---
 
-### 05Passwordgenerator <a name="05Passwordgenerator"></a>
+### 05Passwordgenerator <a name="05passwordgenerator"></a>
 **Description:** A password generator application built using React. It allows users to generate secure passwords based on specified criteria.
 **Status:** In Progress  
 **Latest Commit:** [View Commit](https://github.com/mgaditya-er/ChaiWithReact/commit/1a1fce73eeca0723424605c72b4509f3a28fe811) 
