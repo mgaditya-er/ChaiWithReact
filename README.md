@@ -8,7 +8,7 @@ Welcome to my React projects portfolio. This repository showcases a series of pr
 - [02Counter](#02Counter)
 - [03tailwindprops](#03tailwindprops)
 - [04Bgchanger](#04Bgchanger)
-- [05Passwordgenerato](#05Passwordgenerato)
+- [05Passwordgenerator](#05Passwordgenerator)
 
 ---
 
@@ -69,7 +69,7 @@ Welcome to my React projects portfolio. This repository showcases a series of pr
 
 ---
 
-### 05Passwordgenerato <a name="05Passwordgenerato"></a>
+### 05Passwordgenerator <a name="05Passwordgenerator"></a>
 **Description:** A password generator application built using React. It allows users to generate secure passwords based on specified criteria.
 **Status:** In Progress  
 **Latest Commit:** [View Commit](https://github.com/mgaditya-er/ChaiWithReact/commit/1a1fce73eeca0723424605c72b4509f3a28fe811) 
