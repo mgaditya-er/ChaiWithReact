@@ -8,7 +8,7 @@ function App() {
     setColor(getcolor)
   }
   return (
-    <div className="w-full h-screen duration-200" 
+    <div className="w-full h-screen duration-400" 
     style = {{background: color}}
     >
       <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2">
